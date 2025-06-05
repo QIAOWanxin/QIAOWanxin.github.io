@@ -20,14 +20,15 @@ redirect_from:
 
 Journal Publications
 ------
-<small>1. **Wanxin Qiao**, Ni (Nina) Huang, Zhijun Yan*. How to Translate Frim-Generated Content to Sale: The Mediating Role of the User-Generated Content in Online Healthcare Platforms. _**Journal of Management Information Systems**_, 2024, forthcoming.（**FT50**期刊）</small><br>
+<small>1. **Wanxin Qiao**, Ni (Nina) Huang, Zhijun Yan*. How to Translate Frim-Generated Content to Sale: The Mediating Role of the User-Generated Content in Online Healthcare Platforms. _**Journal of Management Information Systems**_, 2024,4:1173-1197 forthcoming.（**FT50**期刊）</small><br>
 <small>2. **Wanxin Qiao**, Zhijun Yan*, Xiaohan Wang. When the Clock Chimes: The Impact of On-the-hour Effects on User Anxiety Content Generation in Social Media Platforms. _**Journal of Affective Disorders**_, 2024,344: 69-78. (JCR Q1; 中科院top期刊)</small><br>
 <small>3. **Wanxin Qiao**, Zhijun Yan*, Xiaohan Wang. Join or Not: The Impact of Physicians’ Group Joining Behavior on Their Online Demand and Reputation in Online Health Communities. _**Information Processing and Management**_, 2021, 58(5), pp.102634.(JCR Q1; 中科院top期刊)</small><br>
 
 Working Papers
 ------
-<small>1. **Wanxin Qiao**, Yi-Chun (Chad) Ho, Zhijun Yan*. Examining the Impacts of Managerial Responses on Customer Reviews: A Content Congruence Perspective. **_MIS Quarterly_**, 2023, Prepare for 2nd Round Under Review.（**UTD24 & FT50**期刊）</small><br>
-<small>2. **乔晚馨**，李佩伦，颜志军*. 在线健康平台中医患互动形式的策略选择研究. _**系统工程理论与实践**_, 2024, 在审.</small>
+<small>1. **Wanxin Qiao**, Yu Kan, Yi-Chun (Chad) Ho, Zhijun Yan*, Qiuju Yin*. Speaking to the Mind or the Heart: Examining the Motivational and Evaluative Roles of Managerial Responses. **_MIS Quarterly_**, 2025, 2nd Round Under Review.（**UTD24 & FT50**期刊）</small><br>
+<small>2. **乔晚馨**，李佩伦，颜志军*. 在线健康平台中医患互动形式的策略选择研究. _**中国管理科学**_, 2025, 在审.</small>
+<small>3. Peilun Li，**Wanxin Qiao**，Haitao Wu. Ethical Egoism or Reciprocal Altruism? Impact of Firm-Generated Content on User-Generated Content from Ethical Perspective. _**Journal of Business Ethics**_, 2025, 在审.</small>
 
 Conference Proceedings and Workshops
 ------
@@ -53,8 +54,9 @@ Public Service
 ------
 <small>1. Information Processing and Management，Electronic Commerce Research and Applications，Information & Management，Journal of Affective Disorders期刊匿名审稿人</small><br>
 <small>2. Pacific Asia Conference on Information Systems，China Association for Information China Association for Information Systems会议匿名审稿人</small><br>
-<small>3. International Conference on Digital Health and Medical Analytics、TRPACE-IS、China Association for Information China Association for Information Systems等会议会务成员</small><br>
-<small>4. 人工智能技术与管理应用研究会、Association for Information Systems会员</small>
+<small>3. 中国信息经济学会产业数智化变革和创新管理学会委员</small><br>
+<small>4. International Conference on Digital Health and Medical Analytics、TRPACE-IS、China Association for Information China Association for Information Systems等会议会务成员</small><br>
+<small>5. 人工智能技术与管理应用研究会、Association for Information Systems会员</small>
 
 Honors & Awards
 ------
