@@ -27,8 +27,8 @@ Journal Publications
 Working Papers
 ------
 <small>1. **Wanxin Qiao**, Yu Kan, Yi-Chun (Chad) Ho, Zhijun Yan*, Qiuju Yin*. Speaking to the Mind or the Heart: Examining the Motivational and Evaluative Roles of Managerial Responses. **_MIS Quarterly_**, 2025, 2nd Round Under Review.（**UTD24 & FT50**期刊）</small><br>
-<small>2. **乔晚馨**，李佩伦，颜志军*. 在线健康平台中医患互动形式的策略选择研究. _**中国管理科学**_, 2025, 在审.</small>
-<small>3. Peilun Li，**Wanxin Qiao**，Haitao Wu. Ethical Egoism or Reciprocal Altruism? Impact of Firm-Generated Content on User-Generated Content from Ethical Perspective. _**Journal of Business Ethics**_, 2025, 在审.</small>
+<small>2. **乔晚馨**，李佩伦，颜志军*. 在线健康平台中医患互动形式的策略选择研究. _**中国管理科学**_, 2025, 在审.</small><br>
+<small>3. Peilun Li，**Wanxin Qiao***，Haitao Wu. Ethical Egoism or Reciprocal Altruism? Impact of Firm-Generated Content on User-Generated Content from Ethical Perspective. _**Journal of Business Ethics**_, 2025, 在审.</small>
 
 Conference Proceedings and Workshops
 ------
